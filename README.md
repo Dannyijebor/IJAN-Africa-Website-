@@ -4,6 +4,7 @@
 
 # IJAN Africa Website 🌍💻  
 **Empowering the Future with In-Demand Digital Skills**  
+[IJAN Africa Website](https://ijanafrica.com/)
 
 ## 📌 About  
 This is the official website for **IJAN Africa**, a tech training institute dedicated to transforming students into industry-ready professionals. The platform provides information about available courses, testimonials, and a seamless way for students to enroll.  
